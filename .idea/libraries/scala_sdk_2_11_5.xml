@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="scala-sdk-2.11.5" type="Scala">
+    <properties>
+      <compiler-classpath>
+        <root url="file:///opt/scala/lib/scala-reflect.jar" />
+        <root url="file:///opt/scala/lib/scala-library.jar" />
+        <root url="file:///opt/scala/lib/scala-compiler.jar" />
+        <root url="file:///opt/scala/lib/akka-actor_2.11-2.3.4.jar" />
+        <root url="file:///opt/scala/lib/config-1.2.1.jar" />
+        <root url="file:///opt/scala/lib/jline-2.12.jar" />
+        <root url="file:///opt/scala/lib/scala-actors-2.11.0.jar" />
+        <root url="file:///opt/scala/lib/scala-actors-migration_2.11-1.1.0.jar" />
+        <root url="file:///opt/scala/lib/scala-continuations-library_2.11-1.0.2.jar" />
+        <root url="file:///opt/scala/lib/scala-continuations-plugin_2.11.2-1.0.2.jar" />
+        <root url="file:///opt/scala/lib/scala-parser-combinators_2.11-1.0.3.jar" />
+        <root url="file:///opt/scala/lib/scala-swing_2.11-1.0.1.jar" />
+        <root url="file:///opt/scala/lib/scala-xml_2.11-1.0.3.jar" />
+        <root url="file:///opt/scala/lib/scalap-2.11.5.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar:///opt/scala/lib/scala-reflect.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-library.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-xml_2.11-1.0.3.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-parser-combinators_2.11-1.0.3.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-actors-2.11.0.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-swing_2.11-1.0.1.jar!/" />
+      <root url="jar:///opt/scala/src/scala-library.jar!/" />
+      <root url="jar:///opt/scala/lib/akka-actor_2.11-2.3.4.jar!/" />
+      <root url="jar:///opt/scala/lib/config-1.2.1.jar!/" />
+      <root url="jar:///opt/scala/lib/jline-2.12.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-compiler.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-continuations-library_2.11-1.0.2.jar!/" />
+      <root url="jar:///opt/scala/lib/scala-continuations-plugin_2.11.2-1.0.2.jar!/" />
+      <root url="jar:///opt/scala/lib/scalap-2.11.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://www.scala-lang.org/api/2.11.5/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
